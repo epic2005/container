@@ -1,3 +1,12 @@
+docker images cmd:
+
 docker pull img
 docker images
 docker rmi img
+
+
+docker container cmd:
+
+docker ps 
+docker ps -a
+docker rm
